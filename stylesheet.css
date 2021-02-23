@@ -6,7 +6,7 @@
 
 body {
 	background-color: #002fa7;
-	font-family: Helvectica, Helvectica, Helvectica;
+	font-family: Helvectica;
 	}
 
 p {
@@ -17,7 +17,6 @@ color: #ffd700;
 
 h1 {
 	color: #ffd700
-	border-bottom: 1px solid #ffd700;
 	font-family: "Helvetica", Helvetica, Helvetica; 
 }
 
