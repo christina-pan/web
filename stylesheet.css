@@ -1,0 +1,40 @@
+/*
+* {
+	border: 1px solid black;
+}
+*/
+
+body {
+	background-color: #002fa7;
+	font-family: Helvectica, Helvectica, Helvectica;
+	}
+
+p {
+	margin-left: 5px;
+color: #ffd700;
+	}
+
+
+h1 {
+	color: #ffd700
+	border-bottom: 1px solid #ffd700;
+	font-family: "Helvetica", Helvetica, Helvetica; 
+}
+
+h2 {
+	border-top: 1px solid: #ffd700; 
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	display: inline;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.section {
+	display: flex;
+}
