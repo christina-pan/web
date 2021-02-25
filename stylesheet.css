@@ -5,7 +5,7 @@ body {
 	
 p {
 	background-color: #002fa7;
-	color: gold;
+	color: #ffd700;
 	font-family: Helvetica, sans-serif;
 	font-size: 30 px;
 	padding: 20px 20px;
@@ -20,23 +20,23 @@ img {
 
 h1 {
 	font: normal bold 40px/1 sans-serif;
-	color: gold;
+	color: #ffd700;
 }
 
 h2 {
 	font: normal bold 30px/1 sans-serif;
-	color: gold;
+	color: #ffd700;
 }
 
 h3 {
 	font: normal bold 24px/1 sans-serif;
-	color: gold;
+	color: #ffd700;
 	padding: 2px 2px;
 	margin: 10px;
 }
 
 ul {background-color: #002fa7;
-	color: gold;
+	color: #ffd700;
 	font-family: Helvetica, sans-serif;
 	font-size: 22 px;
 	padding: 4px 4px;
@@ -44,7 +44,7 @@ ul {background-color: #002fa7;
 }
 
 li {background-color: #002fa7;
-	color: white;
+	color: #ffd700;
 	font-family: Helvetica, sans-serif;
 	font-size: 20 px;
 	padding: 4px 4px;
@@ -58,7 +58,7 @@ li {background-color: #002fa7;
 
 .topnav a {
   float: right;
-  color: gold;
+  color: #ffd700;
   text-align: center;
   padding: 6px 6px;
   text-decoration: none;
@@ -67,12 +67,12 @@ li {background-color: #002fa7;
 
 .topnav a:hover {
   background-color: #002fa7;
-  color: gold;
+  color: #ffd700;
 }
 
 .topnav a.active {
   background-color: #002fa7;
-  color: gold;
+  color: #ffd700;
 }
 
 .image-txt-container {
