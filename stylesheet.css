@@ -1,5 +1,4 @@
 
-  
 body {
 	background-color: mediumblue;
 	}
@@ -7,7 +6,7 @@ body {
 p {
 	background-color: mediumblue;
 	color: gold;
-	font-family: Helvetica, sans-serif;
+	font-family: Georgia, serif;
 	font-size: 30 px;
 	padding: 20px 20px;
 	line-height: 125%;
@@ -21,7 +20,7 @@ img {
 
 h1 {
 	font: small-caps bold 40px/1 sans-serif;
-	color: mediumblue;
+	color: gold;
 }
 
 h2 {
@@ -31,14 +30,14 @@ h2 {
 
 h3 {
 	font: small-caps bold 24px/1 sans-serif;
-	color: mediumblue;
+	color: gold;
 	padding: 2px 2px;
 	margin: 10px;
 }
 
 ul {background-color: mediumblue;
 	color: gold;
-	font-family: Helvetica, sans-serif;
+	font-family: Georgia, serif;
 	font-size: 22 px;
 	padding: 4px 4px;
 	margin: 10px;
@@ -46,9 +45,48 @@ ul {background-color: mediumblue;
 
 li {background-color: mediumblue;
 	color: gold;
-	font-family: Helvetica, serif;
+	font-family: Georgia, serif;
 	font-size: 20 px;
 	padding: 4px 4px;
 	margin: 10px;
 }
 
+.topnav {
+  background-color: mediumblue;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: right;
+  color: gold;
+  text-align: center;
+  padding: 6px 6px;
+  text-decoration: none;
+  font: small-caps bold 20px/1 sans-serif;
+}
+
+.topnav a:hover {
+  background-color: mediumblue;
+  color: gold;
+}
+
+.topnav a.active {
+  background-color: mediumblue;
+  color: gold;
+}
+
+.image-txt-container {
+  display:flex;
+  align-items:center;
+  flex-direction: row;
+}
+
+.flexcontainer {
+  display: flex;
+  align-items: center;
+}
+@media (max-width: 1000px) {
+  .flexcontainer {
+    display: block;
+  }
+}
