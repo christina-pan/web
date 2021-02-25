@@ -19,17 +19,17 @@ img {
 }
 
 h1 {
-	font: small-caps bold 40px/1 sans-serif;
+	font: normal bold 40px/1 sans-serif;
 	color: gold;
 }
 
 h2 {
-	font: small-caps bold 30px/1 sans-serif;
+	font: normal bold 30px/1 sans-serif;
 	color: gold;
 }
 
 h3 {
-	font: small-caps bold 24px/1 sans-serif;
+	font: normal bold 24px/1 sans-serif;
 	color: gold;
 	padding: 2px 2px;
 	margin: 10px;
