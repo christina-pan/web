@@ -4,7 +4,7 @@ body {
 	}
 	
 p {
-	background-color: mediumblue;
+	background-color: #002fa7;
 	color: gold;
 	font-family: Helvetica, sans-serif;
 	font-size: 30 px;
@@ -15,7 +15,7 @@ p {
 img {
 	height: 750px;
 	width: 500px;
-	border: 7mm double mediumblue;
+	border: 7mm double #002fa7;
 }
 
 h1 {
@@ -35,7 +35,7 @@ h3 {
 	margin: 10px;
 }
 
-ul {background-color: mediumblue;
+ul {background-color: #002fa7;
 	color: gold;
 	font-family: Helvetica, sans-serif;
 	font-size: 22 px;
@@ -43,7 +43,7 @@ ul {background-color: mediumblue;
 	margin: 10px;
 }
 
-li {background-color: mediumblue;
+li {background-color: #002fa7;
 	color: white;
 	font-family: Helvetica, sans-serif;
 	font-size: 20 px;
@@ -52,7 +52,7 @@ li {background-color: mediumblue;
 }
 
 .topnav {
-  background-color: mediumblue;
+  background-color: #002fa7;
   overflow: hidden;
 }
 
@@ -66,12 +66,12 @@ li {background-color: mediumblue;
 }
 
 .topnav a:hover {
-  background-color: mediumblue;
+  background-color: #002fa7;
   color: gold;
 }
 
 .topnav a.active {
-  background-color: mediumblue;
+  background-color: #002fa7;
   color: gold;
 }
 
