@@ -1,0 +1,54 @@
+
+  
+body {
+	background-color: mediumblue;
+	}
+	
+p {
+	background-color: mediumblue;
+	color: gold;
+	font-family: Helvetica, sans-serif;
+	font-size: 30 px;
+	padding: 20px 20px;
+	line-height: 125%;
+	}
+
+img {
+	height: 200px;
+	width: 400px;
+	border: 7mm double mediumblue;
+}
+
+h1 {
+	font: small-caps bold 40px/1 sans-serif;
+	color: mediumblue;
+}
+
+h2 {
+	font: small-caps bold 30px/1 sans-serif;
+	color: gold;
+}
+
+h3 {
+	font: small-caps bold 24px/1 sans-serif;
+	color: mediumblue;
+	padding: 2px 2px;
+	margin: 10px;
+}
+
+ul {background-color: mediumblue;
+	color: gold;
+	font-family: Helvetica, sans-serif;
+	font-size: 22 px;
+	padding: 4px 4px;
+	margin: 10px;
+}
+
+li {background-color: mediumblue;
+	color: gold;
+	font-family: Helvetica, serif;
+	font-size: 20 px;
+	padding: 4px 4px;
+	margin: 10px;
+}
+
