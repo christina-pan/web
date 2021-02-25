@@ -1,13 +1,13 @@
 
   
 body {
-	background-color: azure;
+	background-color: #002fa7;
 	}
 	
 p {
-	background-color: azure;
+	background-color: mediumblue;
 	color: darkslategrey;
-	font-family: Georgia, serif;
+	font-family: Helvetica, sans-serif;
 	font-size: 30 px;
 	padding: 20px 20px;
 	line-height: 125%;
@@ -16,78 +16,39 @@ p {
 img {
 	height: 200px;
 	width: 400px;
-	border: 7mm double cadetblue;
+	border: 7mm double mediumblue;
 }
 
 h1 {
 	font: small-caps bold 40px/1 sans-serif;
-	color: darkslategrey;
+	color: mediumblue;
 }
 
 h2 {
 	font: small-caps bold 30px/1 sans-serif;
-	color: maroon;
+	color: gold;
 }
 
 h3 {
 	font: small-caps bold 24px/1 sans-serif;
-	color: lightslategrey;
+	color: mediumblue;
 	padding: 2px 2px;
 	margin: 10px;
 }
 
-ul {background-color: azure;
-	color: darkslategrey;
-	font-family: Georgia, serif;
+ul {background-color: mediumblue;
+	color: gold;
+	font-family: Helvetica, sans-serif;
 	font-size: 22 px;
 	padding: 4px 4px;
 	margin: 10px;
 }
 
-li {background-color: azure;
-	color: darkslategrey;
-	font-family: Georgia, serif;
+li {background-color: mediumblue;
+	color: gold;
+	font-family: Helvetica, serif;
 	font-size: 20 px;
 	padding: 4px 4px;
 	margin: 10px;
 }
 
-.topnav {
-  background-color: lightcoral;
-  overflow: hidden;
-}
-
-.topnav a {
-  float: right;
-  color: white;
-  text-align: center;
-  padding: 6px 6px;
-  text-decoration: none;
-  font: small-caps bold 20px/1 sans-serif;
-}
-
-.topnav a:hover {
-  background-color: lightblue;
-  color: black;
-}
-
-.topnav a.active {
-  background-color: lightblue;
-  color: white;
-}
-
-.image-txt-container {
-  display:flex;
-  align-items:center;
-  flex-direction: row;
-}
-
-.flexcontainer {
-  display: flex;
-  align-items: center;
-}
-@media (max-width: 320px) {
-  .flexcontainer {
-    display: block;
-  }
-}
