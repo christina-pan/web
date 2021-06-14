@@ -4,7 +4,7 @@ html {
 }
 
 nav ul {
-  list-style-type: disc;
+  list-style-type: none;
   padding: 50px 0px 50px 0px;
   clear:both;
   border-bottom:1px solid #0002a7;
