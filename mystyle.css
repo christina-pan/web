@@ -44,4 +44,53 @@ li, p {
 a {
   color:#0002a7;
 }
+
+/* nav bar styling */
+nav ul {
+  list-style-type: none;
+  margin: 3% 30% 3% 30%;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+  border-radius: 50px;
+}
+
+nav li {
+  float: left;
+  width: 50%;
+}
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  border-radius: 50px;
+}
+
+#current {
+  background-color: white;
+}
+
+nav li a:hover {
+  background-color: white;
+}
+
+/* data page styling */
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+}
+
+.grid-item {
+  text-align: center;
+  border: 2px solid black;
+  padding: 20px;
+  margin: 5% 10% 5% 10%;
+}
+
+.grid-item img {
+  width:12%;
+}
 © 2021 GitHub, Inc.
