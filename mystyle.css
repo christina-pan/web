@@ -23,8 +23,8 @@ h1 {
 
 
 h2 {
-  border-left:5px solid rgb(61, 153, 72);
-  background-color:rgba(61, 153, 72, 0.3);
+  border-left:5px solid white;
+  background-color: white;
   padding:7px;
   font-size:25px;
 }
