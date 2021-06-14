@@ -1,5 +1,5 @@
 html {
-  color:#0002a7;
+  color:white;
   margin:20px ;
 }
 
@@ -21,10 +21,13 @@ h1 {
   border-radius:30px;
 }
 
+
 h2 {
+  border-left:5px solid rgb(61, 153, 72);
+  background-color:rgba(61, 153, 72, 0.3);
+  padding:7px;
   font-size:25px;
 }
-
 
 #toc {
   font-size:35px;
