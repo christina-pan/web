@@ -12,6 +12,7 @@ h2 {
   font-size: 20px;
   color: #0002a7;
 }
+/* home page styling*/
 
 u1 {
   list-style-type: none;
@@ -27,6 +28,9 @@ u1 {
   margin: 0 40px 0 40px;
   font-size: 15px;
 }
+
+/* nav bar styling */
+
 nav ul {
   list-style-type: none;
   margin: 3% 30% 3% 30%;
@@ -56,6 +60,7 @@ nav li a {
 nav li a:hover {
   background-color: #635F59;
 }
+/* gallery page styling */
 
 .grid-container {
   display: grid;
