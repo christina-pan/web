@@ -1,0 +1,79 @@
+html {
+  color:#white;
+  margin:45px ;
+}
+
+nav ul {
+  list-style-type: disc;
+  padding: 50px 0px 50px 0px;
+  clear:both;
+  border-bottom:1px solid #0002a7;
+  margin-bottom:30px;
+}
+
+li a {
+  text-align: center;
+  text-decoration: none;
+  float: left;
+  width:25%;
+  color:#0002a7;
+  font-size:18px;
+}
+
+li a:hover {
+  color:rgb(0, 2, 167);
+}
+
+#current {
+  color:black;
+}
+
+h1,h2 {
+  font-family:Garamond, serif;
+  color: #0002a7;
+}
+
+h1 {
+  text-align:center;
+  font-size:30px;
+  padding:25px;
+  color: #0002a7;
+  margin:20px 15% 20px 15%;
+  border:2px solid black;
+  border-radius:30px;
+}
+
+
+
+h2 {
+  border-left:5px solid rgb(0, 2 167);
+  background-color:rgbar(0,2,167,1);
+  color: #0002a7;
+  padding:7px;
+  font-size:25px;
+}
+
+img {
+  width:28%;
+  float:middle;
+  margin:0 0 15px 15px;
+}
+
+#discography li {
+  list-style-type: circle;
+}
+
+li, p {
+  font: 100 15px monospace;
+}
+
+p a {
+  color:#0002a7;
+}
+
+#quote {
+  margin-left:40px;
+  font-weight:600;
+  font-style:italic;
+  font-family:Garamond, serif;
+}
