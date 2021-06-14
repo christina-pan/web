@@ -1,6 +1,7 @@
 html {
   color:#white;
-  margin:45px ;
+  margin:45px
+  font-family: monospace;
 }
 
 h1,h2 {
