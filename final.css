@@ -56,3 +56,19 @@ nav li a {
 nav li a:hover {
   background-color: #635F59;
 }
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+}
+
+.grid-item {
+  text-align: center;
+  border: 2px solid black;
+  padding: 20px;
+  margin: 5% 10% 5% 10%;
+}
+
+.grid-item img {
+  width:12%;
+}
