@@ -1,5 +1,5 @@
 html {
-  background-color: white;
+  background-color: #FFFFFF;
   padding: 10px 15px 10px 15px;
   font-family: monospace;
 }
@@ -12,6 +12,7 @@ h2 {
   font-size: 20px;
   color: #0002a7;
 }
+
 /* home page styling*/
 
 u1 {
@@ -36,7 +37,7 @@ nav ul {
   margin: 3% 30% 3% 30%;
   padding: 0;
   overflow: hidden;
-  background-color: white;
+  background-color: #FFFFFF;
   border-radius: 50px;
 }
 
