@@ -6,24 +6,19 @@ html {
 
 nav ul {
   list-style-type: none;
-  margin: 3% 30% 3% 30%;
-  padding: 0;
-  overflow: hidden;
-  background-color: #0002a7;
-  border-radius: 50px;
+  padding: 50px 0px 50px 0px;
+  clear:both;
+  border-bottom:2px solid white;
+  margin-bottom:30px;
 }
 
-nav li {
-  float: left;
-  width: 50%;
-}
-nav li a {
-  display: block;
-  color: white;
+li a {
   text-align: center;
-  padding: 14px 16px;
   text-decoration: none;
-  border-radius: 50px;
+  float: left;
+  width:25%;
+  color:white;
+  font-size:18px;
 }
 
 #current {
