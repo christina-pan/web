@@ -14,11 +14,13 @@ h2 {
   color:#FFFFFF;
 }
 
+
 / page style */
 ul {
   list-style-type: none;
   padding: 0;
   margin: 0 30px 0 30px;
+  color: #FFFFFF;
 }
 
 #about h3{
