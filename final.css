@@ -1,95 +1,79 @@
-  
-html {
-  color:#white;
-  margin:45px ;
-}
-
-nav ul {
-  list-style-type: none;
-  padding: 50px 0px 50px 0px;
-  clear:both;
-  border-bottom:2px solid white;
-  margin-bottom:30px;
-}
-
-li a {
-  text-align: center;
-  text-decoration: none;
-  float: left;
-  width:25%;
-  color:white;
-  font-size:18px;
-}
-
-#current {
-  background-color: #FFFFFF;
-}
-
-nav li a:hover {
-  background-color: #FFFFFF;
-}
-
-li a {
-  text-align: center;
-  text-decoration: none;
-  float: left;
-  width:25%;
-  color:#0002a7;
-  font-size:18px;
-}
-
-li a:hover {
-  color:rgb(0, 2, 167);
-}
-
-#current {
-  color:white;
-}
-
-h1,h2 {
-  font-family:Garamond, serif;
-  color: #0002a7;
+  html {
+  background-color: #EBEADF;
+  padding: 10px 15px 10px 15px;
+  font-family: monospace;
 }
 
 h1 {
-  text-align:center;
-  font-size:30px;
-  padding:25px;
-  color: #0002a7;
-  margin:20px 15% 20px 15%;
-  border:2px solid white;
-  border-radius:30px;
+  font-size: 45px;
 }
-
-
 
 h2 {
-  border-left:5px solid #FFFFFF;
-  background-color:#FFFFFF;
-  color: #0002a7;
-  padding:7px;
-  font-size:25px;
+  font-size: 18px;
+  color:#868179;
 }
 
-img {
-  width:28%;
-  float:middle;
-  margin:0 0 15px 15px;
+/* about page styling*/
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0 30px 0 30px;
 }
 
-
-
-li, p {
-  font: 100 15px monospace;
+#about h3{
+  font-size: 23px;
 }
 
-p a {
-  color:#0002a7;
+#about p {
+  margin: 0 40px 0 40px;
+  font-size: 15px;
 }
 
-#quote {
-  margin-left:40px;
-  font-weight:600;
-  font-style:italic;
-  font-family:Garamond, serif;
+/* nav bar styling */
+nav ul {
+  list-style-type: none;
+  margin: 3% 30% 3% 30%;
+  padding: 0;
+  overflow: hidden;
+  background-color: #868179;
+  border-radius: 50px;
+}
+
+nav li {
+  float: left;
+  width: 50%;
+}
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  border-radius: 50px;
+}
+
+#current {
+  background-color: #403D39;
+}
+
+nav li a:hover {
+  background-color: #635F59;
+}
+
+/* data page styling */
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+}
+
+.grid-item {
+  text-align: center;
+  border: 2px solid black;
+  padding: 20px;
+  margin: 5% 10% 5% 10%;
+}
+
+.grid-item img {
+  width:12%;
 }
