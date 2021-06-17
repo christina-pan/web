@@ -1,7 +1,7 @@
   html {
   background-color: #8EE4AF;
   padding: 10px 15px 10px 15px;
-  font-family: Helvetica; sans-serif;
+  font-family: monospace;
 }
 
 h1 {
@@ -23,7 +23,6 @@ ul {
 
 #about h3{
   font-size: 23px
-  color: #FFFFFF;
 }
 
 #about p {
