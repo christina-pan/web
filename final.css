@@ -1,5 +1,5 @@
   html {
-  background-color: ##0a0ffd;
+  background-color: #0a0ffd;
   padding: 10px 15px 10px 15px;
   font-family: Garamond; monospace;
 }
@@ -10,7 +10,7 @@ h1 {
 
 h2 {
   font-size: 18px;
-  color:#868179;
+  color:#FFFFFF;
 }
 
 / page style */
@@ -35,7 +35,7 @@ nav ul {
   margin: 3% 30% 3% 30%;
   padding: 0;
   overflow: hidden;
-  background-color: #868179;
+  background-color: #1d1f24;
   border-radius: 50px;
 }
 
@@ -57,7 +57,7 @@ nav li a {
 }
 
 nav li a:hover {
-  background-color: #635F59;
+  background-color: #000000;
 }
 
 /* data page styling */
